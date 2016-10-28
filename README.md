@@ -7,22 +7,20 @@ Im weiterem Schritt entwarf ich einen neuen Algorithmus, der kürze und klare An
 
 ### Die Algorithmus-Definition
 Bitte entwerfe zeichnerisch folgende Beschreibung (Arbeitsdauer max. 10 Minuten).  
-0. Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer.
-1. Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite
-2. Zeichne ein Quadrat, das ca. bis zu 5mm größer in der Fläche erscheint als der Kreis.
-Das Quadrat und der Kreis müssen sich an selbstausgesuchte(r) Tangente, Seite oder Eckpunkt berühren.
+0. Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer  
+1. Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite  
+2. Zeichne ein Quadrat, das ca. bis zu 5mm größer in der Fläche erscheint als der Kreis.  
+   Das Quadrat und der Kreis müssen sich an selbstausgesuchte(r) Tangente, Seite oder Eckpunkt berühren.  
 3. Zeichne ein Dreieck (gleichseitiges, rechtwinckliges oder gleichschenckliges),
-das ca. bis zu 5mm größer in der Fläche erscheint als das Quadrat.
-Das Dreieck muss das Quadrat an selbstausgesuchte(n) Seite oder Eckpunkt berühren.
+   das ca. bis zu 5mm größer in der Fläche erscheint als das Quadrat.
+   Das Dreieck muss das Quadrat an selbstausgesuchte(n) Seite oder Eckpunkt berühren.
 4. Zeichne ein Fünfeck, das ca. bis zu 5mm größer in der Fläche erscheint als das Dreieck.
-Das Fünfeck muss das Dreieck an selbstausgesuchte(n) Seite oder Eckpunkt berühren.
+   Das Fünfeck muss das Dreieck an selbstausgesuchte(n) Seite oder Eckpunkt berühren.
 5. Wiederhole Punkt 1 bis 5 bis Du mit der Komposition zufrieden bist.
-Der Ausgangspunkt für die Wiederholung muss die letztgezeichnete Fläche sein.
+   Der Ausgangspunkt für die Wiederholung muss die letztgezeichnete Fläche sein.
 6. Schraffiere oder fülle bereits gezeichnete Formen nach Geschmack aus
-(farbig oder nur einfarbig ist freigestellt)
-Am Ende fotografiere Deine Zeichnung mit Deinem Handy als Draufsicht und schicke es mir zurück:-)
-DANKE
-
+   (farbig oder nur einfarbig ist freigestellt)
+***
 
 Lass ihn von mindestens 10 Lebewesen ausführen.  
 Digitalisiere und arrangiere die entstandenen Bilder (von heute und die neuen).  
