@@ -1,2 +1,2 @@
-# 01_Algorithms
+# 01_Algorithms (Analog exercises)
 Examples of Analog algorithms
