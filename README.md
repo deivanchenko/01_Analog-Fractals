@@ -5,7 +5,7 @@ Bei der ersten Übung sollte ein Algorithmus in Worten definiert und beschrieben
 
 Im weiterem Schritt entwarf ich einen neuen Algorithmus, der kürze und klare Anweisungen enthält. 14 Testpersonen haben meine Idee in zeichnerischen Entwürfen umgesetzt. Diese zeige ich in einer Übersicht, um die unterschidlichen Varianten auf einen Blick sichtbar und erfassbar zu machen. 
 
-Die Algorithmus-Definition
+### Die Algorithmus-Definition
 Bitte entwerfe zeichnerisch folgende Beschreibung (Arbeitsdauer max. 10 Minuten).  
 0. Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer.
 1. Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite
