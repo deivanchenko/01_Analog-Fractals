@@ -10,7 +10,7 @@ Bitte entwerfe zeichnerisch folgende Beschreibung (Arbeitsdauer max. 10 Minuten)
 0. Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer  
 1. Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite  
 2. Zeichne ein Quadrat, das ca. bis zu 5mm größer in der Fläche erscheint als der Kreis.  
-   Das Quadrat und der Kreis müssen sich an selbstausgesuchte(r) Tangente, Seite oder Eckpunkt berühren.  
+      Das Quadrat und der Kreis müssen sich an selbstausgesuchte(r) Tangente, Seite oder Eckpunkt berühren.  
 3. Zeichne ein Dreieck (gleichseitiges, rechtwinckliges oder gleichschenckliges),
    das ca. bis zu 5mm größer in der Fläche erscheint als das Quadrat.
    Das Dreieck muss das Quadrat an selbstausgesuchte(n) Seite oder Eckpunkt berühren.  
