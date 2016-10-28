@@ -1,4 +1,4 @@
-# 01 Analoge Algorithme
+# 01 Analoge Algorithmen
 ***
 ###Einführung und Übung von analogen Algorithmen 
 Bei der ersten Übung sollte ein Algorithmus in Worten definiert und beschrieben werden. Danach sollte die Beschreibung zeichnerisch (Analog) von Kommilitoninnen oder Kommilitonen umgesetzt werden. Meine Beschreibung war für sie schwierig zu entziffern, weil die Anweisungen zu lang und verschachtelt beschrieben waren. Außerdem war die Formsprache meines Algorithmen zusätzlich zu komplex entworfen, um in einfache Skizzen darstellen zu können (siehe Bilder).
