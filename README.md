@@ -1,5 +1,6 @@
 # 01_Algorithms (Analog exercises)
 Examples of Analog algorithms
+- - -
 Überarbeite den Algorithms oder entwerft einen neuen.
 Lass ihn von mindestens 10 Lebewesen ausführen.
 Digitalisiere und arrangiere die entstandenen Bilder (von heute und die neuen).
