@@ -1,7 +1,8 @@
 # 01_Algorithms (Analog exercises)
 Examples of Analog algorithms 
 ***
-Bei der ersten Übung sollte ein Algorithmus in Worten definiert und beschrieben werden. Danach sollte die Beschreibung zeichnerisch (analog) von Kommilitoninnen oder Kommilitonen umgesetzt werden. Meine Beschreibung war für sie schwierig zu entziffern, weil die Anweisungen zu lang und verschachtelt beschrieben waren. Außerdem die von mir ausgewählte Formsprache des Algorithmen war zusätzlich zu komplex (siehe Bilder).  
+Bei der ersten Übung sollte ein Algorithmus in Worten definiert und beschrieben werden. Danach sollte die Beschreibung zeichnerisch (analog) von Kommilitoninnen oder Kommilitonen umgesetzt werden. Meine Beschreibung war für sie schwierig zu entziffern, weil die Anweisungen zu lang und verschachtelt beschrieben waren. Außerdem die von mir ausgewählte Formsprache des Algorithmen war zusätzlich zu komplex (siehe Bilder).
+
 Im weiterem Schritt entwarf ich einen neuen Algorithmus, der kürze und klare Anweisungen enthält. 14 Testpersonen haben Entwürfe erstellt. Diese zeige ich in einer Übersicht, um die unterschidliche Varianten auf einen Blick sichtbar zu machen.  
 
 Lass ihn von mindestens 10 Lebewesen ausführen.  
