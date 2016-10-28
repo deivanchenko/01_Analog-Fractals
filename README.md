@@ -1,10 +1,10 @@
 # 01_Algorithms (Analog exercises)
-Examples of Analog algorithms
-- - -
-Überarbeite den Algorithms oder entwerft einen neuen.
-Lass ihn von mindestens 10 Lebewesen ausführen.
-Digitalisiere und arrangiere die entstandenen Bilder (von heute und die neuen).
-Erstelle einen in Markdown [M↓] formatierten Post (+ mindestens ein Bild)
+Examples of Analog algorithms 
+***
+Überarbeite den Algorithms oder entwerft einen neuen. 
+Lass ihn von mindestens 10 Lebewesen ausführen. 
+Digitalisiere und arrangiere die entstandenen Bilder (von heute und die neuen). 
+Erstelle einen in Markdown [M↓] formatierten Post (+ mindestens ein Bild) 
 Kriterien:
 * Wie lautet der Algorithmus?
 * Was hat dich inspiriert?
