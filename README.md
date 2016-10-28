@@ -7,18 +7,18 @@ Im weiterem Schritt entwarf ich einen neuen Algorithmus, der kürze und klare An
 
 ### Die Algorithmus-Definition
 Bitte entwerfe zeichnerisch folgende Beschreibung (Arbeitsdauer max. 10 Minuten).  
-1. Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer  
-2. Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite  
-3. Zeichne ein Quadrat, das ca. bis zu 5mm größer in der Fläche erscheint als der Kreis.  
+**1.** Nehme ein Blatt Papier (Blanko, Karro, farbig, Linien, etc.) im Format DIN A4 oder größer  
+**2.** Zeichne einen Kreis mit mindesten 5mm Durchmesser an beliebiger Stelle der Seite  
+**3.** Zeichne ein Quadrat, das ca. bis zu 5mm größer in der Fläche erscheint als der Kreis.  
 Das Quadrat und der Kreis müssen sich an selbstausgesuchte(r) Tangente, Seite oder Eckpunkt berühren.  
-4. Zeichne ein Dreieck (gleichseitiges, rechtwinckliges oder gleichschenckliges),  
+**4.** Zeichne ein Dreieck (gleichseitiges, rechtwinckliges oder gleichschenckliges),  
 das ca. bis zu 5mm größer in der Fläche erscheint als das Quadrat.  
 Das Dreieck muss das Quadrat an selbstausgesuchte(n) Seite oder Eckpunkt berühren.  
-5. Zeichne ein Fünfeck, das ca. bis zu 5mm größer in der Fläche erscheint als das Dreieck.  
+**5.** Zeichne ein Fünfeck, das ca. bis zu 5mm größer in der Fläche erscheint als das Dreieck.  
 Das Fünfeck muss das Dreieck an selbstausgesuchte(n) Seite oder Eckpunkt berühren.  
-6. Wiederhole Punkt 1 bis 5 bis Du mit der Komposition zufrieden bist.  
+**6.** Wiederhole Punkt 1 bis 5 bis Du mit der Komposition zufrieden bist.  
 Der Ausgangspunkt für die Wiederholung muss die letztgezeichnete Fläche sein.  
-7. Schraffiere oder fülle bereits gezeichnete Formen nach Geschmack aus (farbig oder nur einfarbig ist freigestellt).
+**7.** Schraffiere oder fülle bereits gezeichnete Formen nach Geschmack aus (farbig oder nur einfarbig ist freigestellt).
 ***
 
 Lass ihn von mindestens 10 Lebewesen ausführen.  
