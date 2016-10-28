@@ -14,3 +14,4 @@ Was ist das Format?
 Was sind die Parameter/Variablen?
 Was sind Konstanten?
 Was ging schief?
+_Quelle: Fabian Morón Zirfas_
